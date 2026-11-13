@@ -1,0 +1,3 @@
+# Publishing this repository
+
+Upload the **contents** of this folder to your new repository, preserving directory structure. The included markdown documents and images are genuine project-derived material. This is **not** a runnable ROS 2 workspace because the actual original node source code was not provided for this packaging step. To add executable code, export the permitted packages from the original rover project workspace/team repository, keeping git attribution and license conditions. Do not publish secrets, private farm coordinates, radio credentials, or unsafe commissioning instructions.
